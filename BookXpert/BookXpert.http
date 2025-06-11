@@ -1,0 +1,6 @@
+@BookXpert_HostAddress = http://localhost:5237
+
+GET {{BookXpert_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
